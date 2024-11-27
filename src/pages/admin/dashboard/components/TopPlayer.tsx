@@ -5,7 +5,7 @@ import TableContainer from '@mui/material/TableContainer';
 import TableHead from '@mui/material/TableHead';
 import TableRow from '@mui/material/TableRow';
 import Paper from '@mui/material/Paper';
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { RentalRequestService } from '../../../../services/rentalRequestService'
 import { FormControl, InputLabel, MenuItem, Select } from '@mui/material';
 

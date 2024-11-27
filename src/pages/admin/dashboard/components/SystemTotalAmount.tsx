@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import  { useEffect, useState } from 'react'
 import { SystemService } from '../../../../services/systemService';
 
 export default function SystemTotalAmount() {
